@@ -4,7 +4,7 @@ Sweet is a collection of snippets with the goal providing sweeter coding experie
 # Snippets
 ```lua
 sweet = require 'sweet'
-entity = sweet.create
+entity = sweet.create2
 
 foo = entity "player" {x = 100, y = 100}
 
